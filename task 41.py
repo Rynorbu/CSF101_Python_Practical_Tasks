@@ -4,4 +4,4 @@
 no_of_times = int(input("Enter a number: "))
 
 for x in range(no_of_times):
-    print("hi I am at gedu")
+    print("hi I am at cst")
